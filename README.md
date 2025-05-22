@@ -30,10 +30,6 @@ I am a 17-year-old student currently in Class 12th with a passion for full-stack
 - Git & GitHub
 - VS Code
 
-## 📈 GitHub Stats
-
-![Akshaj's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)
-
 ## 📫 How to reach me
 
 - LinkedIn: [Akshaj Rawat](not created yet)
