@@ -1,36 +1,26 @@
-# Hi there, I'm Akshaj Rawat 👋
+# 👋 Hi, I'm Akshaj Rawat
 
-## About Me
+## 👨‍💻 About Me
 
-I am a 17-year-old student currently in Class 12th with a passion for full-stack development. I love building web applications and constantly learning new technologies to improve my skills.
+I'm a 17-year-old Class 12 student passionate about **Full Stack Development**. I enjoy building web apps and constantly learning new technologies to level up my skills.
 
-- 🌱 I’m currently learning **Full Stack Development**.
-- 💼 Aspiring to become a professional software developer.
-- 💬 Ask me about **JavaScript, React, Node.js, Express, MongoDB**.
+- 🚀 Currently mastering **JavaScript**, **React**, **Node.js**, and **MongoDB**.  
+- 🎯 Aspiring to become a professional software developer.  
+- 💡 Ask me anything about **JS, React, Node.js, Express, MongoDB**!
+
+---
 
 ## 🛠️ Skills & Tools
 
-### Languages
-- JavaScript
-- HTML
-- CSS
+| 💻 Languages   | 🎨 Frontend     | ⚙️ Backend       | 🗄️ Databases | 🔧 Tools & Platforms  |
+|----------------|-----------------|------------------|--------------|----------------------|
+| JavaScript     | React.js        | Node.js          | MongoDB      | Git & GitHub         |
+| HTML           | Tailwind CSS    | Express.js       |              | VS Code              |
+| CSS            |                 |                  |              |                      |
 
-### Frontend
-- React.js
-- Tailwind
+---
 
-### Backend
-- Node.js
-- Express.js
+## 📬 How to Reach Me
 
-### Databases
-- MongoDB
-
-### Tools & Platforms
-- Git & GitHub
-- VS Code
-
-## 📫 How to reach me
-
-- LinkedIn: [Akshaj Rawat](not created yet)
-- Email: [akshajr11@gmail.com](akshajr11@gmail.com)
+- 🔗 LinkedIn: [Akshaj Rawat](https://www.linkedin.com/in/akshaj-rawat-436a84314/)  
+- 📧 Email: [akshajr11@gmail.com](mailto:akshajr11@gmail.com)
