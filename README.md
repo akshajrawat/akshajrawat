@@ -17,7 +17,7 @@
 
 <hr />
 
-## 👨‍💻 Engineering Philosophy
+## 👨‍💻 Engineering 
 
 I specialize in migrating traditional MERN applications to high-performance **Next.js** architectures. My focus is on **Server-Side Rendering (SSR)**, **Optimistic UI patterns**, and **End-to-End Type Safety**.
 
