@@ -20,7 +20,7 @@
 
 <hr />
 
-## 👨‍💻 Engineering Philosophy
+## 👨‍💻 Engineering 
 
 I specialize in building high-performance architectures, ranging from modern **Next.js** applications to **event-driven backend systems**. My approach prioritizes End-to-End Type Safety, secure validation, and scalable data flows.
 
@@ -30,7 +30,7 @@ I specialize in building high-performance architectures, ranging from modern **N
 
 ---
 
-## 🛠️ The Technical Arsenal
+## 🛠️  Technical 
 
 My stack bridges modern frontend ecosystems with robust, scalable backend infrastructure. 
 
